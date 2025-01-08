@@ -1,7 +1,8 @@
 # E-clipless Link Shaft
 Design for an E-clipless Shaft for use with the Phreakmods Link / Link EX Groove on Sanwa JLF and Sanjuks V3 levers
 
-Fits an M4x10mm Screw
+Fits an M4x10mm Screw.
+
 Revised to include slot at top for slotted screwdriver.
 
 Based on measurements taken from my own Phreakmods Link Shaft, Sanjuks V3P shaft, and https://github.com/BolSadguy/Link-Holder-2.0
