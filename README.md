@@ -5,7 +5,7 @@ Fits an M4x10mm Screw
 
 Based on measurements taken from my own Phreakmods Link Shaft, Sanjuks V3P shaft, and https://github.com/BolSadguy/Link-Holder-2.0
 
-
 STEP and PDF files are required for CNC fabrication using JLCCNC
 
-![E-clipless Link Shaft](https://github.com/user-attachments/assets/3b044a25-24d7-4716-883c-313f829708f7) ![E-clipless Link Shaft Section View](https://github.com/user-attachments/assets/3660b756-bcb0-453a-bde9-1fe41d9890b8)
+
+![iso](https://github.com/user-attachments/assets/30913d77-142f-44e7-ae8a-082f1eae8b70)![section](https://github.com/user-attachments/assets/69e89b8e-e89a-411e-92d0-27c41802e457)
