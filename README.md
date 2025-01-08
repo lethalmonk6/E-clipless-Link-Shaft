@@ -8,6 +8,7 @@ Revised to include slot at the top for a slotted screwdriver.
 Based on measurements taken from my own Phreakmods Link Shaft, Sanjuks V3P shaft, and https://github.com/BolSadguy/Link-Holder-2.0
 
 STEP and PDF files are required for CNC fabrication using JLCCNC. 
+
 Material is Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance.
 
 
