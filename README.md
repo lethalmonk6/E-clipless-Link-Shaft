@@ -1,5 +1,7 @@
 # E-clipless Link Shaft
-Design for an E-clipless Shaft for use with the Phreakmods Link / Link EX Groove on Sanwa JLF and Sanjuks V3 levers
+Design for an E-clipless Shaft for use with the Phreakmods Link / Link EX Groove on Sanwa JLF and Sanjuks V3 levers.
+
+V3-R Version works with Sanjuks V3-R Lever.
 
 Fits an M4x10mm Screw.
 
