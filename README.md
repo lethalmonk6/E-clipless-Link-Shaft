@@ -17,7 +17,7 @@ Material is Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance.
 ![iso](https://github.com/user-attachments/assets/30913d77-142f-44e7-ae8a-082f1eae8b70)![section](https://github.com/user-attachments/assets/69e89b8e-e89a-411e-92d0-27c41802e457)
 
 # License
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
