@@ -11,7 +11,7 @@ Based on measurements taken from my own Phreakmods Link Shaft, Sanjuks V3P shaft
 
 STEP and PDF files are required for CNC fabrication using JLCCNC. 
 
-Material is Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance. Stainless Steel or Aluminum 7075 can be used as well, but will be more expensive.
+Test copy was made with Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance. However, Stainless Steel is recommended.
 
 
 
